@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "BANNER PUT HERE",
             "text_style": "body"
           }
         },
@@ -115,8 +115,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "hat",
+            "second_image": true
           }
         },
         "collection-1": {
