@@ -114,8 +114,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "hat",
+            "second_image": true
           }
         },
         "collection-1": {
