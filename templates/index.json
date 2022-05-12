@@ -35,8 +35,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/El5RqSWVcAAEwua.jpg",
-        "image_2": "shopify:\/\/shop_images\/tumblr_oy6xzwy2Un1s39hlao2_1280.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
